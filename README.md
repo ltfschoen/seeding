@@ -8,8 +8,8 @@ There are four goals of this collective. It is first and foremost a
 standardization body that will be in charge of its own RFC process. It wants to
 provide transparency over the development and maintenance of various tools that
 the ecosystem uses. It also tries to create an inclusive roadmap with the aim
-of reconcile different needs. And finally, it provides expert opinions when the
-need raises. We'll discuss the four goals in more details in the following
+of reconciling different needs. And finally, it provides expert opinions when the
+need arises. We'll discuss the four goals in more details in the following
 sections.
 
 The discussion of an on-chain Polkadot EVM collective has been under way during
@@ -72,8 +72,8 @@ technically a planned feature in Frontier.)
 
 ### Expert opinions
 
-The Polkadot EVM collective also aims to provide expert opinions and help in
-review, audit, and coordinate certain ecosystem initiatives. For example, the
+The Polkadot EVM collective also aims to provide expert opinions and help in the
+review, audit, and coordination of certain ecosystem initiatives. For example, the
 collective may be in charge to draft the detailed technical requirements for the
 new "OpenEVM" parachain and supervise its implementation. For this, we currently
 don't expect the collective to handle anything related to code implementation.
@@ -85,7 +85,7 @@ and developed by an external team who wins the bid.
 ### Definition
 
 One is eligible as a member of the Polkadot EVM collective if one is involved in
-the development of a tool or a parachain that have EVM feature. This currently
+the development of a tool or a parachain that have the EVM feature. This currently
 includes:
 
 * [Frontier](https://github.com/polkadot-evm/frontier)
